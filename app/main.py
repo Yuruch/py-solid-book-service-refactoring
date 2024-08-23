@@ -1,6 +1,6 @@
 from app.book import Book
 from app.display import ConsoleDisplay, ReverseConsoleDisplay
-from app.printer import ConsolePrinter,  ReverseConsolePrinter
+from app.printer import ConsolePrinter, ReverseConsolePrinter
 from app.serializer import JsonSerializer, XmlSerializer
 
 
